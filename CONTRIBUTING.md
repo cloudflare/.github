@@ -45,9 +45,11 @@ For help setting up a global `.gitignore` check out this [GitHub article](https:
 
 ## Conduct
 
-Cloudflare OpenSource follows the Contributor Covenant Code of Conduct. You can find a copy in each
+Cloudflare OpenSource follows the [Contributor Covenant Code of Conduct]. You can find a copy in each
 of our repositories. Violating the CoC could result in a warning or a ban to any and all repositories
 in this origanization.
+
+[Contributor Covenant Code of Conduct]: CODE_OF_CONDUCT.md
 
 ## Contact
 
