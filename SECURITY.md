@@ -1,6 +1,6 @@
 # Security Policy
 
-https://www.cloudflare.com/disclosure
+https://www.cloudflare.com/disclosure 
 
 ## Reporting a Vulnerability
 
