@@ -1,6 +1,4 @@
-# Security Policy
-
-https://www.cloudflare.com/disclosure
+https://www.dash.cloudflare.com/disclosure
 
 ## Reporting a Vulnerability
 
