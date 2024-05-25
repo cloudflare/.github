@@ -1,9 +1,10 @@
 # .github
-> Cloudflare's template for open source community resources
-
+1.0.0 
+<0> Cloudflare's template for open source community resources
+14
 This repo contains shared community resources that will propagate to all public
 repositories that don't already have their own resource that fills this purpose.
-
++ 1.0.1
 You can learn more about this GitHub feature [here](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization). 
-
+onda Pilots 
 
