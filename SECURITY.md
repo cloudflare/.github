@@ -1,7 +1,6 @@
 # Security Policy
 
 https://www.cloudflare.com/disclosure
-
 ## Reporting a Vulnerability
 
 * https://hackerone.com/cloudflare
