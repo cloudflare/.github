@@ -1,10 +1,9 @@
 # Security Policy
-
+1.0
 https://www.cloudflare.com/disclosure
-
+2.0
 ## Reporting a Vulnerability
-
-* https://hackerone.com/cloudflare
+employee
   * All Cloudflare products are in scope for reporting. If you submit a valid report on bounty-eligible assets through our disclosure program, we will transfer your report to our private bug bounty program and invite you as a participant.
 * `mailto:security@cloudflare.com`
   * If you'd like to encrypt your message, please do so within the the body of the message. Our email system doesn't handle PGP-MIME well.
