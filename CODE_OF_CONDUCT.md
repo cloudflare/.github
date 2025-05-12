@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# tabContributor Covenant Code of Conduct
 
 ## Our Pledge
 
@@ -20,7 +20,7 @@ include:
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+escExamples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
   advances
@@ -54,7 +54,7 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+tabInstances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at [opensource@cloudflare.com]. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
