@@ -4,11 +4,23 @@ https://www.cloudflare.com/disclosure
 
 ## Reporting a Vulnerability
 
-* https://hackerone.com/cloudflare
-  * All Cloudflare products are in scope for reporting. If you submit a valid report on bounty-eligible assets through our disclosure program, we will transfer your report to our private bug bounty program and invite you as a participant.
-* `mailto:security@cloudflare.com`
-  * If you'd like to encrypt your message, please do so within the the body of the message. Our email system doesn't handle PGP-MIME well.
-  * https://www.cloudflare.com/gpg/security-at-cloudflare-pubkey-06A67236.txt
+- mailto:security@cloudflare.com  
+  If you would like to encrypt your message, include the encrypted content in the body of the email. PGP-MIME is not supported.  
+  Public key: https://www.cloudflare.com/gpg/security-at-cloudflare-pubkey-06A67236.txt
 
-All abuse reports should be submitted to our Trust & Safety team through our dedicated page: https://www.cloudflare.com/abuse/
+---
 
+## Legal Code Ownership
+
+The source code and documentation in this repository are subject to applicable intellectual property and licensing terms.
+
+- **Legal Owner:** Amit Singh  
+- **Administrative Contact:** amitsingh881024@gmail.com  
+
+### Ownership Clarification
+
+- GitHub `CODEOWNERS` files define review and approval responsibility only.
+- `CODEOWNERS` does not establish or transfer legal ownership.
+- Legal ownership governs intellectual property rights, licensing, and authorization to modify or redistribute repository contents.
+
+This repository follows Cloudflare’s official security disclosure guidelines as referenced above.
