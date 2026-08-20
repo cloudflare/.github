@@ -12,3 +12,4 @@ https://www.cloudflare.com/disclosure
 
 All abuse reports should be submitted to our Trust & Safety team through our dedicated page: https://www.cloudflare.com/abuse/
 
+https://github.com/cloudflare/mcp-server-cloudflare/issues/462
