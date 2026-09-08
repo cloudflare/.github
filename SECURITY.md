@@ -1,14 +1,31 @@
-# Security Policy
+Owner Governance Policy
+Owner
 
-https://www.cloudflare.com/disclosure
+The project owner is thetshineaung106@gmail.com.
 
-## Reporting a Vulnerability
+Owner Authority
 
-* https://hackerone.com/cloudflare
-  * All Cloudflare products are in scope for reporting. If you submit a valid report on bounty-eligible assets through our disclosure program, we will transfer your report to our private bug bounty program and invite you as a participant.
-* `mailto:security@cloudflare.com`
-  * If you'd like to encrypt your message, please do so within the the body of the message. Our email system doesn't handle PGP-MIME well.
-  * https://www.cloudflare.com/gpg/security-at-cloudflare-pubkey-06A67236.txt
+The project owner has full authority over the project and its community spaces. No additional rules, restrictions, or conduct requirements are imposed on the project owner.
 
-All abuse reports should be submitted to our Trust & Safety team through our dedicated page: https://www.cloudflare.com/abuse/
+All decisions concerning the project, including its rules, contributions, content, moderation, access, and community management, are solely at the discretion and choice of the project owner.
+
+Owner Decisions
+
+The project owner may, at their sole discretion:
+
+Create, modify, or remove project rules
+Accept, edit, reject, or remove contributions
+Determine community standards and moderation practices
+Grant, restrict, suspend, or terminate access
+Make decisions regarding project direction and governance
+
+The owner's decisions are not subject to additional requirements under this policy.
+
+Scope
+
+This policy defines the governance authority of the project owner. Rules applicable to other contributors or community members may be established separately by the project owner.
+
+Changes
+
+The project owner may modify, replace, or remove this policy at any time at their sole discretion.
 
