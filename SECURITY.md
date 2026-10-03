@@ -1,14 +1,12 @@
-# Security Policy
+Our Pledge
 
-https://www.cloudflare.com/disclosure
+Our project is committed to fostering an open, safe, respectful, and harassment-free community for everyone. We recognize and respect individual differences and strive to promote equal and meaningful participation.
 
-## Reporting a Vulnerability
+This pledge forms the foundation of our Project Code of Conduct, which establishes standards of behavior for contributors, maintainers, and representatives of the project.
 
-* https://hackerone.com/cloudflare
-  * All Cloudflare products are in scope for reporting. If you submit a valid report on bounty-eligible assets through our disclosure program, we will transfer your report to our private bug bounty program and invite you as a participant.
-* `mailto:security@cloudflare.com`
-  * If you'd like to encrypt your message, please do so within the the body of the message. Our email system doesn't handle PGP-MIME well.
-  * https://www.cloudflare.com/gpg/security-at-cloudflare-pubkey-06A67236.txt
+Read the full Code of Conduct:
+"Contributor Covenant Code of Conduct" (CODE_OF_CONDUCT.md)
 
-All abuse reports should be submitted to our Trust & Safety team through our dedicated page: https://www.cloudflare.com/abuse/
+The full Code of Conduct covers expected standards of behavior, responsibilities, scope, enforcement, reporting procedures, and appropriate actions in response to violations.
 
+All participants are encouraged to read and understand the "full Project Code of Conduct" (CODE_OF_CONDUCT.md) before contributing to or participating in the project.
